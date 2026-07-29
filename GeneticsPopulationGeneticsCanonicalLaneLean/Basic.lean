@@ -1,0 +1,2 @@
+import GeneticsPopulationGeneticsCanonicalLaneLean.GateLemmas
+import GeneticsPopulationGeneticsCanonicalLaneLean.FinalTheorem
